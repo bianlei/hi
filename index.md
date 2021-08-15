@@ -1,1 +1,1 @@
-欢迎来到我的世界
+<h1>I'm not sure what to do with this page YET. But hey yo, welcome!</h1>
